@@ -1,0 +1,5 @@
+GPG keys
+Git dif
+Git pull
+pat token
+git stash
